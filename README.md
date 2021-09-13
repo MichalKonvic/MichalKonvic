@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichalKonvic
 - 👀 I’m interested in all kind of software/web development
-- 🌱 I’m currently learning C++,JavaScript
+- 🌱 I’m currently learning React
 
 <!---
 MichalKonvic/MichalKonvic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
