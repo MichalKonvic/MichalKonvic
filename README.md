@@ -7,7 +7,7 @@ Web Developer and IT Student
 I'm learning to code 2 years, and sometimes I actually really enjoy it 🤩
 
 *   🌍  I'm based in Czech Republic, Ostrava
-*   🖥️  See my portfolio at [My website](https://konvic.dev)
+*   🖥️  See my portfolio at [My website](https://konvic.dev){:target="_blank"}
 *   ✉️  You can contact me at [michalkonvic@gmail.com](mailto:michalkonvic@gmail.com)
 *   🧠  I'm learning NextJS
 *   🤝  I'm open to collaborating on Web Applications
