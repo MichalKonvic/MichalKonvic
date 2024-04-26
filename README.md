@@ -4,19 +4,11 @@ Hi 👋 My name is Michal
 Web Developer and IT Student
 ----------------------------
 
-I'm learning to code 2 years, and sometimes I actually really enjoy it 🤩
 
 *   🌍  I'm based in Czech Republic, Ostrava
 *   🖥️  See my portfolio at [My website](https://konvic.dev)
-*   ✉️  You can contact me at [michalkonvic@gmail.com](mailto:michalkonvic@gmail.com)
-*   🧠  I'm learning NextJS
-*   🤝  I'm open to collaborating on Web Applications
-*   ⚡  Sometimes I hate what i'm doing 🤔
-<a href="https://www.twitter.com/DikyMiso" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/DikyMiso?logo=twitter&style=for-the-badge&color=6366f1&labelColor=22272e"
-                /></a><a href="https://www.twitch.tv/lmihal" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/lmihal?logo=twitchsx&style=for-the-badge&color=6366f1&labelColor=22272e&label=TWITCH+STATUS" /></a>
-
+*   ✉️  You can contact me at [michal@konvic.dev](mailto:michal@konvic.dev)
+*   💭  "Hard work beats talent when talent doesn't work hard"
 ### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -36,8 +28,6 @@ I'm learning to code 2 years, and sometimes I actually really enjoy it 🤩
                                 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
-Socials
-<p align="left"> <a href="https://discord.com/users/304359389534617600" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/MichalKonvic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/michal_konvic" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14622558" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/DikyMiso" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/lmihal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
